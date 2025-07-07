@@ -1,0 +1,4 @@
+- React frontend (`/client`)
+- Node.js + Express backend (`/server`)
+- MongoDB for database
+- Google OAuth for login
